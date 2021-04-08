@@ -31,7 +31,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/razvanstoica89/upptime/master/assets/icon.svg
   name: Razvan Stoica Status
   introTitle: "**Razvan Stoica** Systems Status"
-  introMessage: This is a status page which uses **real-time** data from my [GitHub repository](https://github.com/razvanstoica89/upptime).
+  introMessage: "This is a status page which uses **real-time** data from my [GitHub repository](https://github.com/razvanstoica89/upptime)."
   navbar:
     - title: Razvan Stoica Home
       href: https://razvanstoica.dev

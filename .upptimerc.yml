@@ -9,11 +9,11 @@ sites:
   - name: AquaFilters
     url: https://aquafilters.ro
   - name: Analize Apa
-  - url: https://www.analizeapa.ro
+    url: https://www.analizeapa.ro
   - name: Water Consulting
-  - url: http://water-consulting.ro
+    url: http://water-consulting.ro
   - name: Dedurizare Apa
-  - url: http://dedurizareapa.ro
+    url: http://dedurizareapa.ro
 #  - name: Test for HEAD
 #    method: HEAD
 #    url: https://www.google.com

@@ -6,6 +6,7 @@ repo: upptime # Your GitHub repository name
 sites:
   - name: RazvanStoica.dev
     url: https://razvanstoica.dev
+    icon: https://razvanstoica.dev/favicon/developer.svg
   - name: AquaFilters
     url: https://aquafilters.ro
   - name: Analize Apa

@@ -6,15 +6,21 @@ repo: upptime # Your GitHub repository name
 sites:
   - name: RazvanStoica.dev
     url: https://razvanstoica.dev
-  - name: Broken Site
-    url: https://thissitedoesnotexist.com
-  - name: Test for HEAD
-    method: HEAD
-    url: https://www.google.com
-  - name: Secret Site
-    url: $SECRET_SITE
-  - name: TCP ping
-    url: 1.1.1.1
+  - name: AquaFilters
+    url: https://aquafilters.ro
+  - name: Analize Apa
+  - url: https://www.analizeapa.ro
+  - name: Water Consulting
+  - url: http://water-consulting.ro
+  - name: Dedurizare Apa
+  - url: http://dedurizareapa.ro
+#  - name: Test for HEAD
+#    method: HEAD
+#    url: https://www.google.com
+#  - name: Secret Site
+#    url: $SECRET_SITE
+#  - name: TCP ping
+#    url: 1.1.1.1
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
@@ -23,12 +29,10 @@ status-website:
   # baseUrl: /upptime
   faviconSvg: https://raw.githubusercontent.com/razvanstoica89/upptime/master/assets/icon.svg
   logoUrl: https://raw.githubusercontent.com/razvanstoica89/upptime/master/assets/icon.svg
-  name: Status
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name: Razvan Stoica Status
+  introTitle: "**Razvan Stoica** Systems Status"
+  introMessage: This is a status page which uses **real-time** data from my [GitHub repository](https://github.com/razvanstoica89/upptime).
   navbar:
-    - title: Razvan Stoica Status
-      href: /
     - title: Razvan Stoica Home
       href: https://razvanstoica.dev
 

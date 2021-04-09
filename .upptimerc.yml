@@ -6,18 +6,18 @@ repo: upptime # Your GitHub repository name
 sites:
   - name: RazvanStoica.dev
     url: https://razvanstoica.dev
-    icon: https://razvanstoica.dev/favicon/developer.svg
+    icon: https://raw.githubusercontent.com/razvanstoica89/upptime/master/assets/razvanstoica_icon.svg
   - name: AquaFilters
     url: https://aquafilters.ro
   - name: Analize Apa
     url: https://www.analizeapa.ro
   - name: Water Consulting
     url: https://water-consulting.ro
-    icon: https://water-consulting.ro/favicon.png
+    icon: https://raw.githubusercontent.com/razvanstoica89/upptime/master/assets/water-consulting_favicon.png
   - name: Dedurizare Apa
     url: http://dedurizareapa.ro
-  - name: Broken Site
-    url: https://thissitedoesnotexist.com
+#  - name: Broken Site
+#    url: https://thissitedoesnotexist.com
 #  - name: Test for HEAD
 #    method: HEAD
 #    url: https://www.google.com

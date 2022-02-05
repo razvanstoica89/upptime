@@ -76,17 +76,17 @@
     "url": "http://dedurizareapa.ro",
     "icon": "https://favicons.githubusercontent.com/dedurizareapa.ro",
     "slug": "dedurizare-apa",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1242,
-    "timeDay": 880,
-    "timeWeek": 697,
-    "timeMonth": 825,
-    "timeYear": 1242,
+    "time": 1241,
+    "timeDay": 888,
+    "timeWeek": 722,
+    "timeMonth": 827,
+    "timeYear": 1241,
     "dailyMinutesDown": {}
   }
 ]
